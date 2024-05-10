@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SANDHIYA P
+### Register Number: 212223230183
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
